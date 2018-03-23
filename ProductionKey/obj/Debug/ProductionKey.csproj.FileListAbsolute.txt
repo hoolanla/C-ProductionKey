@@ -10,3 +10,17 @@ C:\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.cspro
 C:\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.exe
 C:\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.pdb
 C:\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.csprojResolveAssemblyReference.cache
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\bin\Debug\ProductionKey.exe.config
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.exe
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.pdb
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\bin\Debug\ProductionKey.exe
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\bin\Debug\ProductionKey.pdb
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.csprojResolveAssemblyReference.cache
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.FrmGenarate.resources
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.FrmMain.resources
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.FrmRegistration.resources
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.Properties.Resources.resources
+C:\Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.csproj.GenerateResource.Cache
+C:\_Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\bin\Debug\ProductionKey.exe.config
+C:\_Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.exe
+C:\_Work_Lumpsum\_CODE\ProductionKey\ProductionKey\ProductionKey\obj\Debug\ProductionKey.pdb

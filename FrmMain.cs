@@ -25,7 +25,7 @@ namespace ProductionKey
             
             {
                 frm.ShowDialog();
-                MessageBox.Show("test");
+
 
             }
 
